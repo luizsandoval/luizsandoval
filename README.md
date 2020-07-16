@@ -4,7 +4,7 @@ Hey everyone, how are you? I hope you're good :heart:!!
 
 ## Who am I? 🤔 
  
-I'm Luiz Sandoval, a fullstack web developer - <i>I enjoy working on **frontend** development</i> - completely passionated about software development and currently based on Sao Paulo, Brazil.
+I'm a fullstack web developer - <i>I enjoy working on **frontend** development</i> - completely passionated about software development and currently based on Sao Paulo, Brazil.
 Nowadays I work at NTT ltd., focused on developing end-to-end web apps with good performance metrics and that bring a simple, intuitive but nicely and great user experience to users.
 
 ## Tools :wrench:
