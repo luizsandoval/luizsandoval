@@ -1,7 +1,7 @@
 # Luiz Sandoval
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Sandoval-56cbf2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-sandoval/)](https://www.linkedin.com/in/luiz-sandoval/) 
-[![Gmail Badge](https://img.shields.io/badge/-lgustavo728@gmail.com-56cbf2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgustavo728@gmail.com)](mailto:lgustavo728@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Sandoval-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-sandoval/)](https://www.linkedin.com/in/luiz-sandoval/) 
+[![Gmail Badge](https://img.shields.io/badge/-lgustavo728@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgustavo728@gmail.com)](mailto:lgustavo728@gmail.com)
 
 ## Welcome aboard :rocket:
 
