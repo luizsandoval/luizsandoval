@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World! :rocket:
+
+Hey everyone, how's going? I hope you're good :heart:!!
+
+## Who am I? 🤔 
+ 
+I'm Luiz Sandoval, a fullstack web developer - <i>I have a special crush on **frontend**</i> - completely passionated about software development and currently based on Sao Paulo, Brazil.
+I have been working for more than two years focused on developing web apps that bring a simple, intuitive but nicely and great user experience.
+
 
 <!--
 **luizsandoval/luizsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
