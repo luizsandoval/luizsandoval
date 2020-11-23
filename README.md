@@ -14,6 +14,11 @@ I'm a fullstack web developer - <i>I really enjoy working on **frontend** develo
 <br />
 Since 2018, I work at NTT ltd., focused on developing end-to-end web apps with good performance metrics and that not only solves the problem, but also brings simple, nicely and great user experience.
 
+## What am I learning? :brain:
+
+- React Native
+- Redux
+
 ## Fun facts :dancer:
 
 - I love cats :smile_cat:
