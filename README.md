@@ -16,8 +16,7 @@ Since 2018, I work at NTT ltd., focused on developing end-to-end web apps with g
 
 ## What am I learning? :brain:
 
-- React Native
-- Redux
+- NextJS
 
 ## Fun facts :dancer:
 
