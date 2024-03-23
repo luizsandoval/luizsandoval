@@ -1,24 +1,31 @@
 # Luiz Sandoval
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Sandoval-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-sandoval/)](https://www.linkedin.com/in/luiz-sandoval/) 
-[![Gmail Badge](https://img.shields.io/badge/-lgustavo728@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgustavo728@gmail.com)](mailto:lgustavo728@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luiz.sandoval.dev@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgustavo728@gmail.com)](mailto:luiz.sandoval.dev@gmail.com)
 
-## Welcome aboard :rocket:
+## Welcome aboard 🚀
 
-Here you can find my personal projects and get to know more about me. Hope you enjoy it :heart:!
+Here you can find my personal projects and get to know more about me. Hope you enjoy it ❤️!
 
-## Who am I? :thinking:
+## Who am I? ❓
  
-I'm a fullstack web developer - <i>I really enjoy working on **frontend** development</i> - completely passionated about software development and currently based on Sao Paulo, Brazil.
-<br />
-<br />
-Since 2018, I work at NTT ltd., focused on developing end-to-end web apps with good performance metrics and that not only solves the problem, but also brings simple, nicely and great user experience.
+I'm a Senior fullstack web developer, with more than 5 years of experience, passionated about software development and currently based on Sao Paulo, Brazil.
 
-## What am I learning? :brain:
-
+## My skills 🧰
+- Javascript/Typescript
+- NodeJS
+- React
 - NextJS
+- Angular
+- NestJS
+- MongoDB
+- Jest
 
-## Fun facts :dancer:
+## What have I been doing lately? 👀
 
-- I love cats :smile_cat:
-- I enjoy watching series and movies (<i>Valar morghulis</i>) :dragon_face:
+- Looking forward for both AZ-900 and AZ-204 Microsoft certifications 👨‍🎓
+
+## Fun facts 🥸
+
+- I love animals and I have a dog called Flora 🐶
+- I have so much fun programming - despite the bugs - that I always try to include technology in every part of my life... And that's why I automated the process of sending my wedding invitations 💒🤓
