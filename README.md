@@ -29,3 +29,4 @@ I'm a Senior fullstack web developer, with more than 5 years of experience, pass
 
 - I love animals and I have a dog called Flora 🐶
 - I have so much fun programming - despite the bugs - that I always try to include technology in every part of my life... And that's why I automated the process of sending my wedding invitations 💒🤓
+- Traveling is one of my favorite experiences 🌴🌅
