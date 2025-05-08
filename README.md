@@ -1,7 +1,7 @@
 # Luiz Sandoval
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Sandoval-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-sandoval/)](https://www.linkedin.com/in/luiz-sandoval/) 
-[![Gmail Badge](https://img.shields.io/badge/-luiz.sandoval.dev@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgustavo728@gmail.com)](mailto:luiz.sandoval.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luiz.sandoval.dev@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.sandoval.dev@gmail.com)](mailto:luiz.sandoval.dev@gmail.com)
 
 ## Welcome aboard 🚀
 
@@ -9,7 +9,7 @@ Here you can find my personal projects and get to know more about me. Hope you e
 
 ## Who am I? ❓
  
-I'm a Senior fullstack web developer, with more than 5 years of experience, passionated about software development and currently based on Sao Paulo, Brazil.
+I'm a Senior fullstack web developer, with more than 7 years of experience, passionated about software development and currently based on Sao Paulo, Brazil.
 
 ## My skills 🧰
 - Javascript/Typescript
@@ -20,10 +20,6 @@ I'm a Senior fullstack web developer, with more than 5 years of experience, pass
 - NestJS
 - MongoDB
 - Jest
-
-## What have I been doing lately? 👀
-
-- Looking forward for both AZ-900 and AZ-204 Microsoft certifications 👨‍🎓
 
 ## Fun facts 🥸
 
